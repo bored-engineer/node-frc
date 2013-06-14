@@ -1,0 +1,22 @@
+{
+  "name": "node-frc",
+  "version": "1.0.0",
+  "description": "node.js support for a variety of frc functionality",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innoying/node-frc"
+  },
+  "keywords": [
+    "frc",
+    "driver-station",
+    "node",
+    "first",
+    "robotics"
+  ],
+  "author": "innoying",
+  "license": "MIT"
+}
