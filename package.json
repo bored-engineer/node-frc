@@ -4,7 +4,7 @@
     "description": "node.js support for a variety of frc functionality",
     "main": "./lib/index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: Use node-frc-test to test functionality is working (https://github.com/innoying/node-frc-test)\" && exit 1"
     },
     "repository": {
         "type": "git",
