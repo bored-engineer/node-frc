@@ -11,11 +11,12 @@
     "url": "https://github.com/innoying/node-frc"
   },
   "keywords": [
-    "frc",
-    "driver-station",
-    "node",
-    "first",
-    "robotics"
+    "FRC",
+    "DriverStation",
+    "Node",
+    "First",
+    "Robotics",
+    "NetConsole"
   ],
   "author": "innoying",
   "license": "MIT"
