@@ -1,23 +1,28 @@
 {
-  "name": "node-frc",
-  "version": "1.0.0",
-  "description": "node.js support for a variety of frc functionality",
-  "main": "./lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/innoying/node-frc"
-  },
-  "keywords": [
-    "FRC",
-    "DriverStation",
-    "Node",
-    "First",
-    "Robotics",
-    "NetConsole"
-  ],
-  "author": "innoying",
-  "license": "MIT"
+    "name": "node-frc",
+    "version": "1.0.0",
+    "description": "node.js support for a variety of frc functionality",
+    "main": "./lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/innoying/node-frc"
+    },
+    "keywords": [
+        "FRC",
+        "DriverStation",
+        "Node",
+        "First",
+        "Robotics",
+        "NetConsole"
+    ],
+    "author": "innoying",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/innoying/node-frc/blob/master/LICENSE.txt"
+        }
+    ]
 }
