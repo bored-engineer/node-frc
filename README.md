@@ -11,7 +11,7 @@ Installation
 Install using `npm`, of course!
 
 ``` bash
-$ npm install FRC
+$ npm install frc
 ```
 
 Or add it to the `"dependencies"` section of your `package.json` file.
@@ -30,7 +30,7 @@ To be added at a later date
 Support / Getting Involved
 ---------------------------
 
-If you're looking for support for developing with/for `node-FRC` to just fork 
+If you're looking for support for developing with/for `node-frc` to just fork 
 this on github and make changes.
 
 
