@@ -1,5 +1,5 @@
 {
-    "name": "node-frc",
+    "name": "FRC",
     "version": "1.0.0",
     "description": "node.js support for a variety of frc functionality",
     "main": "./lib/index.js",
